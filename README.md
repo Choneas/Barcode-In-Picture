@@ -1,2 +1,10 @@
-# pic_hide_barcode
-hide barcode in a picture. 在一张普通图片里隐藏二维码，可以被微信识别。这个代码谁都可以用，唯独有一个人不给用，抖X上有个叫“大神开发”的营销号，先后盗了我十几个原创视频，我从未见过如此厚颜无耻之人！
+# Barcode-In-Picture
+Hide barcode in a picture.
+
+forked from [3150601355/pic_hide_barcode](https://github.com/3150601355/pic_hide_barcode)
+
+# Example
+## Original
+![image](./Example/普通图片.jpg)
+## After
+![image](./Example/合成图片.png)
